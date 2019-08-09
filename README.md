@@ -1,6 +1,6 @@
 Example from http://www.lihaoyi.com/hands-on-scala-js/#IntegratingClient-Server
 
-Run with `sbt app/run`
+Run with `sbt appJVM/run`
 
 It fails with:
 ```
